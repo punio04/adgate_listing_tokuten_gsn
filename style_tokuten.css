@@ -1655,6 +1655,12 @@ Smart Phone
     text-align: center !important;
   }
 
+  #ceo header .innr span {
+    text-decoration-thickness: 0.4em !important;
+    text-decoration-color: rgb(11 171 229 / 49%);
+    text-underline-offset: -0.2em;
+    text-decoration-skip-ink: none;
+  }
 
   .innr .sp {
     margin-bottom: 15px;
