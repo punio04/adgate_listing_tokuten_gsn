@@ -1659,7 +1659,7 @@ Smart Phone
     text-decoration-color: rgba(11, 171, 229, 0.49);
     text-underline-offset: -0.1em;
     text-decoration-skip-ink: none;
-    text-decoration-thickness: 0.4em !important;
+    text-decoration-thickness: 6px!important;
   }
 
   .innr .sp {
